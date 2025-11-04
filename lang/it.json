@@ -1,0 +1,1703 @@
+{
+  "SWADE": {
+  "ButtonReset": "Reset",
+  "ButtonSubmit": "Invia",
+  "CommunityCharSheet": "Scheda del Personaggio Legacy",
+  "CommunityNPCSheet": "Scheda PNG della Community",
+  "ItemSheet": "Scheda Oggetto Savage Worlds",
+  "GroupSheet": "Scheda Gruppo Savage Worlds",
+  "VehicleSheet": "Scheda Veicolo Savage Worlds",
+  "HeadquartersSheet": "Scheda Quartier Generale Savage Worlds",
+  "Expand": "Espandi",
+  "OfficialSheet": "Scheda Ufficiale Savage Worlds di Pinnacle",
+  "ModHint": "Assicurati che il modificatore includa un + o -",
+  "ActionDeckPresetLight": "Mazzo d'Azione (Chiaro)",
+  "ActionDeckPresetDark": "Mazzo d'Azione (Scuro)",
+  "ActionDeckPresetPEG": "Mazzo d'Azione (PEG)",
+  "Name": "Nome",
+  "disabledAE": "Disabilitato a causa di un Effetto Attivo",
+  "Tough": "Resistenza",
+  "Ancestry": "Ascendenza",
+  "Archetype": "Archetipo",
+  "Pace": "Velocità",
+  "Running": "Corsa",
+  "RunningDie": "Dado di Corsa",
+  "RunningMod": "Modificatore di Corsa",
+  "RunningHint": {
+    "Header": "<strong>Distanza totale percorsa correndo.</strong>",
+    "Reminder": "<p>Correre durante il turno comporta una penalità di -2 a tutte le azioni.</p>"
+    },
+    "RollRun": "[Clic] per tirare il Dado di Corsa",
+"Adv": "Avanzamenti",
+"Advance": "Avanzamento",
+"Rank": "Grado",
+"Inv": "Equipaggiamento",
+"Summary": "Tratti",
+"Pow": "Poteri",
+"WildCard": "Jolly",
+"Extra": "Comparsa",
+"Bennies": "Bennies",
+"BenniesCount": "{count} Bennies",
+"TraitMod": "Modificatore di Tratto",
+"SkillTest": "Prova di Abilità",
+"AttributeTest": "Prova di Attributo",
+"Attributes": "Attributi",
+"Derived": "Statistiche Derivate",
+"AttrAgi": "Agilità",
+"AttrSma": "Astuzia",
+"AnimalSmarts": "Astuzia Animale",
+"AnimalSmartsMarker": "A",
+"AttrSpr": "Spirito",
+"AttrStr": "Forza",
+"AttrVig": "Vigore",
+"Tweaks": "Modifiche",
+"AttrAgiShort": "Agi",
+"AttrSmaShort": "Ast",
+"AttrSmaShortPowerRange": "As",
+"AttrSprShort": "Spi",
+"AttrStrShort": "For",
+"AttrVigShort": "Vig",
+"Skills": "Abilità",
+"Unskilled": "Tentativo Non Addestrato",
+"CoreSkill": "Abilità Base",
+"CoreSkills": "Abilità Base",
+"LinkAttr": "Attributo Collegato",
+    "GlobalMod": {
+  "Label": "Modificatori Globali",
+  "Trait": "Tutti i Tratti",
+  "Agility": "Agilità e Abilità collegate",
+  "Smarts": "Astuzia e Abilità collegate",
+  "Spirit": "Spirito e Abilità collegate",
+  "Strength": "Forza e Abilità collegate",
+  "Vigor": "Vigore e Abilità collegate",
+  "Attack": "Tutti gli Attacchi",
+  "Damage": "Tutti i Danni",
+  "AP": "Tutti i Valori di Penetrazione Armatura"
+},
+    "ArcaneSkill": "Abilità Arcana",
+"ActivateArcaneDevice": "Attiva Dispositivo",
+"Die": "Dado",
+"WildDie": "Dado del Destino",
+"Modifier": "Modificatore",
+"BenniesSpend": "Spendi un Benny",
+"BenniesSpendGM": "Spendi un Benny del GM",
+"BenniesAdjustGM": "Regola i Bennies del GM",
+"BenniesAdjustGMText": "Inserisci il numero di Bennies che il GM dovrebbe avere attualmente.",
+"BenniesGive": "Dai un Benny",
+"BenniesRefresh": "Rinnova i Bennies",
+"AllBenniesRefresh": "Rinnova Tutti i Bennies",
+"BenniesRefreshMessage": "I Bennies sono stati rinnovati!",
+"BenniesRefreshAllMessage": "Tutti i Bennies sono stati rinnovati!",
+"BenniesGMRefreshMessage": "I Bennies del GM sono stati rinnovati!",
+"BenniesAddMessage": "ha ricevuto un nuovo Benny!",
+"BenniesGMAddMessage": "ha preso un Benny aggiuntivo!",
+"BenniesSpendMessage": "spende un Benny!",
+"BenniesMax": "Reset Bennies",
+"BenniesMaxNum": "Numero Massimo di Bennies",
+"Elan": "Fervore",
+"EditSkill": "Modifica Abilità",
+"EdEdge": "Modifica Vantaggio",
+"EdHind": "Modifica Svantaggio",
+"Ed": "Modifica",
+"EdF": "Modifica {item}",
+"EdRightClick": "[Click Destro] per Modificare",
+"Del": "Elimina",
+"Arcane": "Arcano",
+"InnatePower": "Potere Innato",
+"All": "Tutti",
+"HasPowers": "Ha Poteri",
+"Weapons": "Armi",
+"MeleeWeapons": "Armi da Mischia",
+"RangedWeapons": "Armi a Distanza",
+"Armors": "Armature",
+"WeaponsAndArmor": "Armi e Armature",
+"Shields": "Scudi",
+"Biography": "Biografia",
+"Shaken": "Scosso",
+"Distr": "Distratto",
+"Vuln": "Vulnerabile",
+"Stunned": "Stordito",
+"Entangled": "Intrappolato",
+"Bound": "Legato",
+"Aiming": "Mira",
+"Berserk": "Furioso",
+"Defending": "Difesa",
+"Burrowing": "Scavando",
+"Flying": "Volando",
+"Unfamiliar": {
+  "2": "Non Familiare (-2)",
+  "4": "Non Familiare (-4)"
+},
+    "FollowLabel": "Segui",
+"Follow": "Segui {name}",
+"Unfollow": "Smetti di seguire {name}",
+"DeleteGroupAndCombatants": "Elimina Gruppo e Combattenti",
+"MakeGroupLeader": "Nomina Capo Gruppo",
+"RemoveGroupLeader": "Rimuovi Capo Gruppo",
+"AddTokenFollowers": "Aggiungi i Token Selezionati come Seguaci",
+"GroupByName": "Raggruppa per Nome",
+"SetGroupColor": "Imposta Colore del Gruppo",
+"SelectColor": "Seleziona un colore",
+"Holding": "In Attesa",
+"Hold": "Attesa",
+"ActAfterCurrentCombatant": "Agisci dopo il Combattente Attuale",
+"ActBeforeCurrentCombatant": "Agisci ora",
+"LoseTurn": "Alterna Perdita del Turno",
+"Frightened": "Spaventato",
+"Encumbered": "Appesantito",
+"Prone": "A Terra",
+"BleedingOut": "In Emorragia",
+"Diseased": "Malato",
+"HeartAttack": "Attacco Cardiaco",
+"OnFire": "In Fiamme",
+"Poisoned": "Avvelenato",
+"Reach": "Portata",
+"Torch": "Torcia",
+"Invisible": "Invisibile",
+"ColdBodied": "Corpo Freddo",
+"Smite": "Punizione",
+"Armor": "Armatura",
+"Protection": "Protezione",
+"Dmg": "Danno",
+"DmgOver": "Danno dell'Azione",
+"ApOver": "Penetrazione Armatura dell'Azione",
+"Resist": "Resistere",
+"ResistRolls": "Tiri di Resistenza",
+"MacroActor": {
+  "Default": "Predefinito",
+  "Self": "Sé",
+  "Target": "Bersaglio"
+},
+    "Ap": "PA",
+"APLong": "Penetrazione Armatura",
+"RoF": "CF",
+"Mag": "Colpi",
+"Parry": "Parata",
+"ShieldBonus": "Bonus dello Scudo",
+"Notes": "Note",
+"ActionsEffects": "Azioni e Effetti",
+    "Actions": {
+  "Name": "Azioni",
+  "Hidden": {
+    "Label": "Nascoste",
+    "Hint": "Le azioni nascoste non vengono visualizzate nella scheda dell'attore"
+  },
+  "DisplayHidden": {
+    "Label": "Mostra Azioni Nascoste"
+  },
+  "Activities": {
+    "Label": "Attività",
+    "Hint": "SWID delle Azioni collegate a questo Oggetto"
+  }
+},
+"DmgModUni": "Modificatore di Danno",
+"SkillModUni": "Modificatore di Tratto",
+"ShotsUsed": "Colpi Utilizzati",
+"ShotsCurrent": "Colpi Attuali",
+"NaturalArmor": "Armatura Naturale",
+"HitLocations": "Zone Colpite",
+"Head": "Testa",
+"Torso": "Torso",
+"Arms": "Braccia",
+"Legs": "Gambe",
+"MinStrLong": "Forza Minima",
+"MinStr": "Forza Min.",
+"MinStrShort": "For.Min.",
+"Desc": "Descrizione",
+"Special": "Capacità Speciali",
+"Details": "Dettagli",
+"Equippable": "Equipaggiabile",
+"ArcaneDevice": "Dispositivo Arcano",
+"Misc": "Varie",
+"QuickAccess": "Accesso Rapido",
+"Effects": "Effetti",
+"Hindrances": "Svantaggi",
+"MajHind": "Svantaggio Maggiore",
+"Major": "(Maggiore)",
+"Minor": "(Minore)",
+"HindMajor": "Maggiore",
+"HindMinor": "Minore",
+"Edges": "Vantaggi",
+"ArcBack": "Retroscena Arcano",
+"Value": "Valore",
+"Req": "Requisiti",
+"Requirements": {
+  "Other": "Altro",
+  "And": "e",
+  "Or": "o",
+  "Editor": {
+    "Header": "Modifica requisiti per {name}",
+    "AddHint": "Aggiungi un nuovo requisito",
+    "DeleteHint": "Elimina questo requisito",
+    "Label": "Etichetta",
+    "Value": "Valore",
+    "SWID": "SWID"
+  },
+  "Combinator": "Combinatore"
+},
+    "Conv": "Convinzione",
+"Hesitant": "Titubante",
+"LevelHeaded": "Freddo",
+"ImprovedLevelHeaded": "Freddo Migliorato",
+"AutoCalc": "Calcoli Automatici",
+"InclArmor": "Calcola automaticamente la Resistenza, includendo l'armatura",
+"Label": "Etichetta",
+"Enabled": "Attivo",
+"Currency": "Valuta",
+"CarryWeight": "Ingombro",
+"Eqd": "Equip.",
+"Equipped": "Equipaggiato",
+"Unequipped": "Non Equipaggiato",
+"Quantity": "Quantità",
+"Weight": "Peso",
+"Price": "Costo",
+"PP": "Punti Potere",
+"PPShort": "P. Potere",
+"PPCost": "Costo in PP",
+"PPMods": "Modificatori di Potere",
+"CurPP": "Punti Potere Attuali",
+"MaxPP": "Punti Potere Massimi",
+"MaxLabel": "Massimo",
+"Dur": "Durata",
+"Trap": "Manifestazione",
+"Wound": "Ferita",
+"Wounds": "Ferite",
+"WoundsMax": "Ferite Massime",
+"Fatigue": "Affaticamento",
+"FatigueMax": "Affaticamento Massimo",
+"Incap": "Incapacitato",
+"Init": "Iniziativa",
+"Draw": "Pesca",
+"Reset": "Reset",
+"DrawInit": "Pesca Iniziativa",
+"ActionDeckReset": "Rimescola il Mazzo d'Azione",
+"ActionDeckResetNotification": "Mazzo d'Azione rimescolato",
+"InitDraw": "ha pescato il…",
+"General": "Generale",
+"Addi": "Aggiuntivo",
+"Status": "Stato",
+"Handling": "Maneggevolezza",
+"Topspeed": "Velocità Massima",
+"SpeedUnit": "Unità",
+"OutOfControl": "Fuori Controllo",
+"Wrecked": "Distrutto",
+"Item": "Oggetto",
+"Cargo": "Carico",
+"MaxCargo": "Peso Massimo del Carico",
+"CargoWeight": "Peso del Carico",
+"Mods": "Modifiche",
+"ModSlots": "Slot Modifica",
+"MaxMods": "Modifiche Massime",
+"VehicleAttributes": {
+  "Label": "Attributi del Veicolo",
+  "Agility": "Il veicolo ha Agilità",
+  "Spirit": "Il veicolo ha Spirito",
+  "Smarts": "Il veicolo ha Astuzia",
+  "Strength": "Il veicolo ha Forza",
+  "Vigor": "Il veicolo ha Vigore"
+},
+    "Energy": {
+  "Label": "Energia",
+  "Value": "Energia Attuale",
+  "Max": "Energia Massima",
+  "Enable": "Attiva Energia"
+},
+    "Operator": "Operatore",
+"OperatorIdHint": "Trascina un Attore o seleziona un Token",
+"ManCheck": "Prova di Manovra",
+"AltSkill": "Abilità Alternativa",
+"Class": "Classificazione",
+"Vehicular": "Arma Veicolare",
+"VehicleMod": "Modifica Veicolo",
+"OpSkill": "Abilità di Operazione",
+"ShowBennyAnimation": "Mostra Animazione Benny",
+"ShowBennyAnimationDesc": "Riproduce un'animazione quando si spende un Benny. Disponibile solo se Dice So Nice! è installato",
+"WildDiePreset": "Preset Dado del Destino",
+"WildDiePresetDesc": "Seleziona un design predefinito DSN per il tuo Dado del Destino.",
+"WildDieTheme": "Tema Dado del Destino",
+"WildDieThemeDesc": "Seleziona un tema DSN per il tuo Dado del Destino. Seleziona 'Personalizzato' per crearne uno tuo o 'Nessuno' se non vuoi che il Dado del Destino abbia un aspetto diverso. Tieni presente che i Dadi del Destino personalizzati sono visibili solo a te. Gli altri giocatori li vedranno in modo diverso.",
+"SettingConf": "Configuratore dell'Ambientazione",
+"SettingConfLabel": "Apri Configuratore dell'Ambientazione",
+"SettingConfDesc": "Personalizza il sistema per adattarlo all'ambientazione che stai giocando.",
+"DiceConf": "Configurazione Dado del Destino",
+"DiceConfDesc": "Configura le impostazioni per l'integrazione SWADE/Dice So Nice",
+"DiceConfLabel": "Apri Configurazione Dado del Destino",
+"Formula": "Formula",
+"SitMod": "Modificatore Situazionale",
+"RollMode": "Modalità di Tiro",
+"RollExample": "es. +1d6x o -2",
+"Roll": "Tira",
+"RollNoun": "Tiro",
+"RollRaise": "Tiro con Incremento",
+"GroupRoll": "Tiro di Gruppo",
+"Ok": "Ok",
+"Cancel": "Annulla",
+"Redraw": "Pesca Carta",
+"RedrawBenny": "Pesca Carta con Benny",
+"Add": "Aggiungi",
+"ConfigInit": "Configura Iniziativa",
+"IgnWounds": "Ignora Ferite",
+"Size": "Taglia",
+"Scale": "Scala",
+"PickACard": "Pesca una carta per {name}",
+"NoCardsLeft": "Non ci sono abbastanza carte nel mazzo! Solo {current} su {needed} carte necessarie sono disponibili. Rimescola il mazzo o riduci il numero di combattenti.",
+"OldCard": "Carta Precedente",
+"ActionCard": "Carta Azione",
+"ConvictionActive": "Convinzione Attiva",
+"ConvictionActivate": "{name} invoca la propria convinzione!",
+"ConvictionEnd": "{name} vacilla nella propria convinzione",
+"ConvictionExtend": "Vuoi estendere la tua convinzione?",
+"ConvictionExtendPrompt": "Vuoi spendere un Benny per estendere la tua convinzione?",
+"NoBennies": "Non hai abbastanza Bennies!",
+"GM": "Game Master",
+"Vehicles": "Veicoli",
+"AddStats": "Statistiche Aggiuntive",
+"Stats": "Statistiche",
+"Actors": "Attori",
+"Items": "Oggetti",
+"Max": "Massimo",
+"Curr": "Attuale",
+"DSNNone": "- Nessuno -",
+"Duplicate": "Duplica",
+"Reload": "Ricarica",
+"Refresh": "Aggiorna questa carta",
+"RefreshOnly": "Aggiorna",
+"NotOwnedError": "Devi possedere questo oggetto/attore per farlo",
+"GrantsItemsError": "L'aggiornamento non funziona per gli oggetti che ne concedono altri",
+"NoUpdatedItemFound": "Nessun oggetto adatto all'aggiornamento è stato trovato",
+"Ammo": "Munizioni",
+"AddOrReplaceActions": {
+  "Title": "Aggiungi o Sostituisci Azioni",
+  "Add": "Aggiungi come nuove",
+  "Replace": "Sostituisci quelle esistenti",
+  "Content": "<p>Vuoi aggiungere le azioni da {type} <strong>{source}</strong> come nuove azioni o sostituire quelle esistenti?</p>"
+},
+    "ppReload": "Punti Potere per Ricaricare",
+"ReloadNotPossible": "Questo tipo di attore non può ricaricare",
+"ReloadUnneeded": "L'arma è già completamente carica",
+"ReloadSuccess": "L'arma è stata ricaricata con successo",
+"NotEnoughAmmo": "Non hai abbastanza munizioni per questa azione!",
+"NotEnoughAmmoToReload": "Non ci sono abbastanza munizioni per una ricarica completa",
+"ReloadType": {
+  "Label": "Procedura di Ricarica",
+  "None": "Nessuna",
+  "Self": "Autonoma",
+  "Single": "Singola",
+  "Full": "Completa",
+  "Magazine": "Caricatore",
+  "Battery": "Batteria",
+  "PP": "Punti Potere"
+},
+"NoAmmoSet": "Non è stata impostata alcuna munizione",
+"NoAmmoPP": "Impossibile trovare punti potere corrispondenti alle munizioni impostate",
+"NoDescription": "Nessuna descrizione disponibile",
+"NoMags": "Non hai consumabili contrassegnati come caricatori nel tuo inventario",
+"RemoveAmmo": "Rimuovi Munizioni",
+"DiscardMagazine": "Scarta caricatore vuoto",
+"ConsumableType": {
+  "Label": "Sottotipo",
+  "Regular": "Standard"
+},
+    "Trapping": "Manifestazioni",
+"AddBenny": "Aggiungi un Benny",
+"CurrentBennies": "Bennies Attuali",
+"RerollWithBenny": "Ritira con un Benny",
+"FreeReroll": "Ritira Gratuitamente",
+"AutoCalcParry": "Calcola automaticamente la Parata, inclusi gli Scudi",
+"BaseParry": "Parata Base",
+"Subtype": "Sottotipo",
+"SpecialAbility": "Capacità Speciale",
+"SpecialAbilities": "Capacità Speciali",
+"AncestralAbilities": "Capacità Ancestrali",
+"ArchetypeAbilities": "Capacità dell'Archetipo",
+"BuildCost": "Costo di Creazione",
+"BuildLimit": "Limite di Creazione",
+"BuildLevel": "Livello di Creazione",
+"About": "Informazioni",
+"EdgesHindrances": "Vantaggi e Svantaggi",
+"GrantsPowers": "Conferisce Poteri",
+"Crew": "Equipaggio",
+"RequiredCrew": "Equipaggio Richiesto",
+"Passengers": "Passeggeri",
+"String": "Testo",
+"Number": "Numero",
+"Checkbox": "Casella di Spunta",
+"Selection": "Selezione",
+"WealthDie": {
+  "Label": "Dado di Ricchezza",
+  "Broke": {
+    "Label": "Al Verde",
+    "Hint": "Sei al verde!"
+  },
+  "Sides": "Facce del Dado di Ricchezza",
+  "WildSides": "Facce del Dado del Destino di Ricchezza",
+  "Modifier": "Modificatore del Dado di Ricchezza"
+},
+    "TraitRolls": "Tiri di Tratto",
+"Trait": "Tratto",
+"AltTrait": "Tratto d'Azione",
+"ClickSuggestions": "[Clic] per suggerimenti",
+"Quick": "Prontezza",
+"BonusDamage": "Danno Bonus",
+"Joker": "Jolly",
+"CustomWildDie": "- Dado del Destino Personalizzato -",
+"Subtract": "Sottrai",
+"DmgRolls": "Tiri di Danno",
+"SubtractPPDesc": "Sottrai il Costo in PP dai PP disponibili",
+"AddPPDesc": "Aggiungi il Costo in PP ai PP disponibili",
+"RightClickZoom": "[Click Destro] per Ingrandire",
+"SysMigrationWarning": "I dati del sistema SWADE provengono da una versione troppo vecchia di Foundry e non possono essere migrati in modo affidabile alla versione più recente. Il processo verrà comunque tentato, ma potrebbero verificarsi errori.",
+"DeckShuffled": "Mazzo di Carte rimescolato automaticamente",
+"BasePace": "Velocità Base",
+"WarningPackLocked": "Non puoi modificare un Compendio bloccato. Sbloccalo prima.",
+"ActionCardEditor": "Editor Carte Azione",
+"CardFace": "Faccia della Carta",
+"CardValue": "Valore",
+"CardSuit": "Seme",
+"Cards": {
+  "Spades": "Picche",
+  "Hearts": "Cuori",
+  "Diamonds": "Quadri",
+  "Clubs": "Fiori",
+  "Jokers": "Jolly",
+  "Two": "Due",
+  "Three": "Tre",
+  "Four": "Quattro",
+  "Five": "Cinque",
+  "Six": "Sei",
+  "Seven": "Sette",
+  "Eight": "Otto",
+  "Nine": "Nove",
+  "Ten": "Dieci",
+  "Jack": "Fante",
+  "Queen": "Regina",
+  "King": "Re",
+  "Ace": "Asso",
+  "RedJoker": "Jolly Rosso / Jolly di Picche",
+  "BlackJoker": "Jolly Nero / Jolly di Cuori",
+  "BlueJoker": "Jolly Blu / Jolly di Quadri",
+  "GreenJoker": "Jolly Verde / Jolly di Fiori"
+},
+    "IsJoker": "È un Jolly",
+"Complication": "Complicazione",
+"OpenACEditor": "Apri nell'Editor Carte Azione",
+"Yes": "Sì",
+"No": "No",
+"Headquarters": {
+  "Advantage": "Vantaggio",
+  "Complication": "Complicazione",
+  "Form": "Forma",
+  "Description": "Descrizione",
+  "Acquisition": "Acquisizione",
+  "Maintenance": "Manutenzione",
+  "Upgrades": "Miglioramenti"
+},
+"SetActionDeck": "Imposta come Mazzo d'Azione",
+"ShowCharacterSummary": "Mostra Riepilogo del Personaggio",
+"CharacterSummary": "Riepilogo del Personaggio",
+"CharacterSummaryTypeErr": "Impossibile usare il riepilogo per un attore di tipo {type}",
+"CopyHtml": "Copia HTML",
+"CopyMarkdown": "Copia Markdown",
+"Imperial": "Imperiale",
+"Metric": "Metrico",
+"ChangeBennyWarning": "Modificare queste impostazioni richiederà di aggiornare la pagina!",
+"3DBennies": "Bennies 3D",
+"WealthSelectionNoneOther": "Nessuno/Altro",
+"Modifiers": "Modificatori",
+"ActionTraitMod": "Modificatore di Tratto d'Azione",
+"ActionDmgMod": "Modificatore di Danno d'Azione",
+"ItemTraitMod": "Modificatore di Tratto",
+"ItemDmgMod": "Modificatore di Danno",
+"Duplicates": "Duplicati Trovati",
+"DuplicateItemsBodyText": "Durante l'aggiunta di {type} <strong>{name}</strong> all'attore {target}, sono stati trovati i seguenti duplicati (per nome e tipo). I nuovi oggetti sono stati rinominati per riflettere la loro origine.",
+"NoActionDeckFound": "Nessun Mazzo d'Azione trovato, ne viene creato uno",
+"NoActionDeckDiscardPileFound": "Nessuna Pila degli Scarti del Mazzo d'Azione trovata, ne viene creata una",
+"Wealth": "Ricchezza",
+"Characters": "Personaggi",
+"SettingRules": "Regole dell'Ambientazione",
+"WorldBasics": "Fondamenti del Mondo",
+    "MAPenalty": {
+  "Label": "Penalità Azioni Multiple",
+  "None": "Nessuna"
+},
+"Mod": {
+  "Custom": {
+    "Add": "Aggiungi Modificatore Personalizzato"
+  },
+  "Support": "Supporto",
+  "Preset": {
+    "Settings": "Modificatori Predefiniti",
+    "Choose": "Scegli un Modificatore…",
+    "Add": "Aggiungi Predefinito"
+  },
+  "Value": "Valore",
+  "Ignore": "Ignora?",
+  "None": "Nessun modificatore al momento",
+  "Active": "Attivo"
+},
+"Illumination": {
+  "_name": "Illuminazione",
+  "Dim": "Fioca",
+  "Dark": "Buia",
+  "Pitch": "Oscurità Totale"
+},
+"Cover": {
+  "_name": "Copertura",
+  "Shield": "Copertura - Scudo",
+  "Light": "Copertura Leggera",
+  "Medium": "Copertura Media",
+  "Heavy": "Copertura Pesante",
+  "Total": "Copertura Totale"
+},
+"Range": {
+  "_name": "Portata",
+  "_nameShort": "Portata",
+  "Medium": "Portata Media",
+  "Long": "Portata Lunga",
+  "Extreme": "Portata Estrema"
+},
+    "ModOther": "Altri Modificatori",
+"ModTrait": "Modificatori di Tratto",
+"ModAttack": "Modificatori d'Attacco",
+"ModDamage": "Modificatori di Danno",
+"Snapfire": "Fuoco Rapido",
+"UnstablePlatform": "Piattaforma Instabile",
+"Weakness": "Debolezza",
+"Resistance": "Resistenza",
+"CannotAddAncestryToAncestry": "Non puoi aggiungere un'origine/archetipo a un'origine/archetipo!",
+"LayOutChaseWithDeck": "Usa il Mazzo per disporre l'Inseguimento",
+"ClearChaseCards": "Rimuovi le carte Inseguimento dalla Scena",
+"NoCCMInstall": "Il modulo Complete Card Management non è installato.",
+"NoCCMActive": "Il modulo Complete Card Management non è attivo.",
+"NoSceneAvailable": "Nessuna scena disponibile o canvas disattivato",
+"ChaseCardsCleared": "Tutte le carte Inseguimento sono state rimosse dalla scena.",
+"SetUpChase": "Imposta Inseguimento",
+"ChaseLayout": "Disposizione",
+"ChaseLayoutError": "Spazio insufficiente sulla scena per disporre l'inseguimento.",
+"ChaseRows": "Righe",
+"ChaseColumns": "Colonne",
+"ChaseDiscard": "Pila degli Scarti",
+"ChaseNoDeck": "Fornisci un mazzo!",
+"ChaseReset": "Il mazzo \"{deck}\" è stato resettato.",
+"Expiration": {
+  "TabLabel": "Comportamento del Turno",
+  "Description": "<p>Gli effetti scadono al <em>prossimo turno o successivamente</em> del bersaglio.</p>",
+  "Behavior": "Comportamento di Scadenza",
+  "BeginAuto": "Inizio del Turno, Automatico",
+  "BeginPrompt": "Inizio del Turno, Conferma",
+  "EndAuto": "Fine del Turno, Automatico",
+  "EndPrompt": "Fine del Turno, Conferma",
+  "None": "Nessuno",
+  "LooseTurnOnHold": "Perde il Turno in Attesa",
+  "Remaining": "Residuo"
+},
+    "RemoveEffectLabel": "Rimuovi Effetto",
+"RemoveEffectTitle": "Rimuovere {label}?",
+"RemoveEffectBody": "<p style=\"text-align: center;\">Rimuovere <strong>{label}</strong> da <strong>{parent}</strong>?</p>",
+"PPAbbreviation": "PP",
+"ShowInChat": "Mostra nella chat",
+"ExpandDescription": "Espandi per mostrare la descrizione",
+"Favorite": "Preferito",
+"Unfavorite": "Rimuovi dai preferiti",
+"Equip": "Equipaggia",
+"RollDamage": "Tira Danno",
+"SystemLinks": {
+  "Changelog": "Registro delle modifiche",
+  "Wiki": "Wiki",
+  "ReportAnIssue": "Segnala un problema"
+},
+"OpenOrigin": "Apri origine",
+"ActionsOverride": "Sovrascrivi",
+"EffectsTemporary": "Effetti Temporanei",
+"EffectsPermanent": "Effetti Permanenti",
+"EffectsInactive": "Effetti Inattivi",
+"Ranks": {
+  "Novice": "Novizio",
+  "Seasoned": "Esperto",
+  "Veteran": "Veterano",
+  "Heroic": "Eroico",
+  "Legendary": "Leggendario"
+},
+"Advances": {
+  "EditorTitle": "Editor Avanzamenti",
+  "Toggle": "Attiva/Disattiva Stato Pianificato",
+  "Delete": "Elimina Avanzamento",
+  "Planned": "Pianificato",
+  "Modes": {
+    "Label": "Modalità",
+    "Legacy": "Classica",
+    "Expanded": "Espansa"
+  },
+  "Types": {
+    "Edge": "Nuovo Vantaggio",
+    "SingleSkill": "Aumenta una Abilità",
+    "TwoSkills": "Aumenta due Abilità",
+    "Attribute": "Aumenta un Attributo",
+    "Hindrance": "Riduci uno Svantaggio"
+  },
+  "Number": "Numero Avanzamento"
+},
+"Scales": {
+  "Description": "Scala: {scale} ({name})",
+  "LargerThan": "Più grande di {scale}",
+  "SmallerThan": "Più piccolo di {scale}",
+  "Names": {
+    "Tiny": "Minuscolo",
+    "VerySmall": "Molto Piccolo",
+    "Small": "Piccolo",
+    "Normal": "Normale",
+    "Large": "Grande",
+    "Huge": "Enorme",
+    "Gargantuan": "Gigantesco"
+  }
+},
+    "AddAdvance": "Aggiungi Avanzamento",
+"Appearance": "Aspetto",
+"CharacterGoals": "Obiettivi",
+"Background": "Background",
+"ID": "ID",
+"SortNum": "Numero di Ordinamento",
+"ActiveEffects": {
+  "Add": "Aggiungi Effetto Attivo",
+  "Source": "Fonte",
+  "ResetDuration": "Reimposta Durata",
+  "AddGuided": "Apri Procedura Guidata",
+  "AddUnguided": "Aggiungi Effetto Vuoto",
+  "AddModifier": "Aggiungi Modificatore",
+  "Conditional": "Effetto Condizionale",
+  "ConditionalTooltip": "Ignora i modificatori di tiro per impostazione predefinita",
+  "ModifierCost": {
+    "Label": "Costo del Modificatore",
+    "Hint": "Il costo in punti di creazione o potere per questo modificatore"
+  },
+  "ModifierLimit": {
+    "Label": "Limite del Modificatore",
+    "Hint": "Quante volte può essere scelto questo modificatore?"
+  },
+  "ModifierLevel": {
+    "Label": "Livello del Modificatore",
+    "Hint": "Quante volte hai scelto questo modificatore?"
+  }
+},
+"Keybindings": {
+  "OpenFavoriteCards": {
+    "Name": "Apri Mano Carte Preferite",
+    "UserConfigLabel": "Mano Carte Preferite",
+    "Hint": "Puoi impostare la tua mano preferita nella Configurazione Utente",
+    "NoCardsWarning": "Non hai impostato una mano di carte preferita!",
+    "HandNone": "Nessuna"
+  },
+  "Bennies": {
+    "Name": "Spendi/Ricevi un Benny",
+    "Hint": "Premi per spendere un Benny, tieni premuto Alt mentre premi il tasto per riceverne uno"
+  }
+},
+    "Settings": {
+      "ArbitFields": "Campi di Impostazione Arbitrari",
+"CharSheetDefaultWidth": {
+  "Name": "Larghezza Predefinita delle Schede Personaggio",
+  "Hint": "Larghezza delle schede personaggio all'apertura iniziale, in pixel. Predefinita: 650."
+},
+"HighlightTemplate": {
+  "Name": "Evidenzia Sempre i Template",
+  "Hint": "Se abilitato, i Template Misurati si evidenziano sempre invece della griglia."
+},
+"InitDiscardPile": {
+  "Name": "Pila degli Scarti dell'Iniziativa"
+},
+"InitCardDeck": {
+  "Name": "Mazzo da usare per l'Iniziativa"
+},
+"ParryBase": {
+  "Name": "SWID Abilità Combattimento",
+  "Hint": "L'ID Savage Worlds dell'abilità usata per calcolare la Parata di un attore. Maggiori dettagli nella documentazione!"
+},
+"UseAttributeShorts": {
+  "Name": "Usa nomi abbreviati degli attributi",
+  "Hint": "Attiva questa opzione per visualizzare nomi abbreviati degli attributi nelle schede PG e PNG, es. Agi invece di Agilità, Sma invece di Astuzia, ecc. È necessario chiudere e riaprire tutte le schede aperte affinché l'opzione abbia effetto."
+},
+"WeightUnit": {
+  "Name": "Unità di Peso",
+  "Hint": "Imposta se il peso è misurato in libbre o chilogrammi. La modifica NON cambia il peso degli oggetti, solo il calcolo dell'ingombro."
+},
+"HideNpcItemChatCards": {
+  "Name": "Nascondi Carte Oggetto dei PNG nella Chat",
+  "Hint": "Se abilitato, le Carte Oggetto dei PNG vengono inviate automaticamente come sussurro ai Game Master invece di essere visibili a tutti."
+},
+"EnableBennyNotify": {
+  "Name": "Notifiche Benny",
+  "Hint": "Mostra messaggi in chat quando i Bennies vengono presi, assegnati o rinnovati."
+},
+"HideWC": {
+  "Name": "Nascondi PNG Wild Cards",
+  "Hint": "Non mostrare ai giocatori quali PNG sono Wild Cards"
+},
+"CreateInitChat": {
+  "Name": "Crea Messaggio Chat per Iniziativa",
+  "Hint": "Quando vengono pescate le Carte Azione, Foundry le invierà in chat se l'opzione è abilitata."
+},
+"AutoInit": {
+  "Name": "Iniziativa Automatica",
+  "Hint": "Pesca automaticamente le Carte Azione ogni round"
+},
+"Bumpmaps": "Mappe di Rilievo",
+"Benny3DFront": {
+  "Name": "Texture Frontale",
+  "Hint": "Texture frontale del Benny 3D"
+},
+      "Benny3DBack": {
+  "Name": "Texture Posteriore",
+  "Hint": "Texture posteriore del Benny 3D"
+},
+"Benny3DBackBump": {
+  "Name": "Mappa di Rilievo Posteriore",
+  "Hint": "Mappa di rilievo posteriore del Benny"
+},
+"Benny3DFrontBump": {
+  "Name": "Mappa di Rilievo Anteriore",
+  "Hint": "Mappa di rilievo anteriore del Benny"
+},
+"CoreSkillsList": {
+  "Name": "Elenco Abilità Fondamentali",
+  "Hint": "Inserisci un elenco separato da virgole di nomi di abilità o dei loro SWID da definire come abilità fondamentali per tutti gli attori"
+},
+"CoreSkillsPack": {
+  "Name": "Compendio Abilità Fondamentali",
+  "Hint": "Scegli da quale Compendio verranno prese le abilità fondamentali"
+},
+"WealthType": {
+  "Name": "Tipo di Ricchezza",
+  "Hint": "Scegli come tracciare la ricchezza e la valuta del personaggio"
+},
+"CurrencyName": {
+  "Name": "Nome della Valuta",
+  "Hint": "Dai un nome alla tua valuta"
+},
+"JokersWild": {
+  "Name": "Jolly Scatenato",
+  "Hint": "Concede un Benny a ogni personaggio giocante quando uno di loro riceve un Jolly"
+},
+"AmmoManagement": {
+  "Name": "Gestione Munizioni",
+  "Hint": "Automatizza il consumo di munizioni. Consulta il diario della documentazione del sistema per i dettagli."
+},
+"PCAmmoFromInventory": {
+  "Name": "I PG usano munizioni dall'inventario",
+  "Hint": "Quando attivato, un Oggetto o Consumabile impostato come munizione verrà usato durante la ricarica dell'arma"
+},
+"NPCAmmoFromInventory": {
+  "Name": "I PNG usano munizioni dal loro inventario"
+},
+"VehicleAmmoFromInventory": {
+  "Name": "I veicoli usano munizioni dal loro inventario"
+},
+"EnableWoundPace": {
+  "Name": "Adatta Velocità alle Ferite",
+  "Hint": "Quando attivato, la Velocità è automaticamente influenzata dalle Ferite"
+},
+"EnableConv": {
+  "Name": "Convinzione",
+  "Hint": "Attiva la regola opzionale della Convinzione"
+},
+"NoPowerPoints": {
+  "Name": "Nessun Punto Potere",
+  "Hint": "Quando attivato, questa opzione nasconde tutte le interazioni con i Punti Potere"
+},
+"AlwaysGeneralPP": {
+  "Name": "Mostra Sempre i Punti Potere Generali",
+  "Hint": "Quando attivato, la sezione Poteri Generali viene sempre mostrata anche se tutti i poteri hanno un Background Arcano associato"
+},
+"ApplyEncumbrance": {
+  "Name": "Applica Penalità da Ingombro",
+  "Hint": "Applica le penalità da ingombro. Tieni presente che attualmente NON SUPPORTA i test di {vigor} per resistere alla {fatigue}!"
+},
+      "VehicleEnergy": {
+  "Name": "Energia del Veicolo",
+  "Hint": "Veicoli e Armature usano Energia"
+},
+"VehicleMods": {
+  "Name": "Modifiche del Veicolo",
+  "Hint": "Veicoli e Armature usano Slot Modifica"
+},
+"VehicleEdges": {
+  "Name": "Vantaggi del Veicolo",
+  "Hint": "I veicoli usano Vantaggi e Svantaggi"
+},
+"VehicleSkills": {
+  "Name": "Abilità di Operazione",
+  "Hint": "Inserisci un elenco separato da virgole di nomi di abilità da definire come abilità di operazione per tutti i veicoli"
+},
+"StaticGmBennies": {
+  "Name": "Bennies Statici per il GM",
+  "Hint": "Imposta un valore fisso per il numero di Bennies che il GM riceve a ogni ricarica, invece di basarsi sul numero di giocatori attivi."
+},
+"GmBennies": {
+  "Name": "Bennies del Game Master",
+  "Hint": "Imposta quanti Bennies riceve il GM a ogni ricarica"
+},
+"BennyImageSheet": {
+  "Name": "Benny",
+  "Hint": "Seleziona quale immagine usare per i Bennies nella Scheda del Personaggio"
+},
+"HardChoices": {
+  "Name": "Scelte Difficili",
+  "Hint": "Se selezionato, abilita la regola opzionale Scelte Difficili"
+},
+"CardSound": {
+  "Name": "Suono delle Carte",
+  "Hint": "Riproduce un breve suono quando vengono distribuite le Carte Iniziativa"
+},
+"StartingCurrency": {
+  "PC": {
+    "Name": "Valuta iniziale del Personaggio Giocante",
+    "Hint": "Imposta la quantità di valuta che i Personaggi Giocanti ricevono alla creazione"
+  },
+  "NPC": {
+    "Name": "Valuta iniziale del PNG",
+    "Hint": "Imposta la quantità di valuta che i PNG ricevono alla creazione"
+  }
+},
+"NPCCurrency": {
+  "Name": "I PNG usano la valuta",
+  "Hint": "Se abilitato, tutti i PNG avranno le stesse opzioni di valuta dei Personaggi Giocanti"
+},
+"DumbLuck": {
+  "Name": "Fortuna Sfacciata",
+  "Hint": "Se selezionato, abilita la regola opzionale Fortuna Sfacciata"
+},
+"WoundCap": {
+  "Name": "Limite Ferite",
+  "Hint": "Se selezionato, abilita la regola opzionale Limite Ferite nel calcolo delle Ferite"
+},
+"UnarmoredHero": {
+  "Name": "Eroe Senza Armatura",
+  "Hint": "Se selezionato, abilita la regola opzionale Eroe Senza Armatura durante i tiri per assorbire"
+},
+"GrittyDamage": {
+  "Name": "Danno Crudo",
+  "Hint": "Se selezionato, abilita la regola opzionale Danno Crudo e consente di selezionare la Tabella Ferite da usare"
+},
+"InjuryTable": {
+  "Name": "Tabella Ferite",
+  "Hint": "Seleziona la Tabella di Tiro appropriata per tirare automaticamente in caso di Danno Crudo"
+},
+"HeroesNeverDie": {
+  "Name": "Gli Eroi Non Muoiono Mai",
+  "Hint": "Se selezionato, abilita la regola opzionale Gli Eroi Non Muoiono Mai per determinare l'incapacitazione"
+},
+"ArmorStacking": {
+  "Choices": {
+    "Core": "Regole Base di Savage Worlds Adventure Edition",
+    "SWPF": "Pathfinder®️ per Savage Worlds"
+  },
+  "Name": "Sovrapposizione Armature",
+  "Hint": "Seleziona quali regole usare per gestire la sovrapposizione delle armature"
+}
+},
+    "EffectCallbacks": {
+  "Shaken": {
+    "RollSpirit": "Tira Spirito",
+    "Title": "Rimuovi Scosso da {name}",
+    "Flavor": "Prova di Spirito per rimuovere Scosso",
+    "UnshakeModifier": "Modificatore per Rimuovere Scosso",
+    "Question": "Cosa vuoi fare?",
+    "Success": "Non sei più Scosso"
+  },
+  "Stunned": {
+    "Title": "Prova di Vigore per rimuovere Stordito",
+    "Fail": "Rimani Stordito",
+    "Success": "Non sei più Stordito ma resti Vulnerabile",
+    "Raise": "Non sei più né Stordito né Vulnerabile",
+    "UnStunModifier": "Modificatore per Rimuovere Stordimento"
+  },
+  "BleedingOut": {
+    "Title": "Prova di Vigore per resistere all'Emorragia",
+    "Fail": "Sei morto",
+    "Success": "Resisti… per ora.",
+    "Raise": "Ti stabilizzi con successo",
+    "BleedOutModifier": "Modificatore per Emorragia",
+    "IgnoreWounds": "Ignora Ferite durante l'Emorragia"
+  }
+},
+    "Validation": {
+  "OnlyOneAncestry": "Puoi avere solo un'origine alla volta.",
+  "OnlyOneArchetype": "Puoi avere solo un archetipo alla volta.",
+  "InvalidBasePace": "Non puoi impostare la Velocità Base su un tipo senza valore.",
+  "NoGroupCombatants": "Gli attori di gruppo non possono essere combattenti."
+},
+"DocumentTweaks": "Regolazioni",
+"TargetVulnerable": "Il bersaglio è Vulnerabile",
+"WildAttack": "Attacco Selvaggio",
+"DesperateAttack": {
+  "2": "Attacco Disperato (2)",
+  "4": "Attacco Disperato (4)"
+},
+"CalledShot": {
+  "HeadOrVitals": "Colpo Mirato: Testa o Organi Vitali",
+  "Hand": "Colpo Mirato: Mano",
+  "Limbs": "Colpo Mirato: Arti"
+},
+"ItemType": "Tipo di Oggetto",
+"Source": "Fonte",
+"MigrateCompendium": "Forza migrazione del compendio",
+"Properties": "Proprietà",
+"AddAction": "Aggiungi Azione",
+"DialogConfirmPrompt": "Sei sicuro?",
+"DeleteEmbeddedActionPrompt": "Sei sicuro di voler eliminare l'azione {action}?",
+"DeleteEmbeddedCardPrompt": "Sei sicuro di voler eliminare la carta {card}?",
+"DeleteEmbeddedPowerPrompt": "Sei sicuro di voler eliminare il potere {power}?",
+"TrademarkWeapon": {
+  "Label": "Arma Distintiva",
+  "None": "Nessuna",
+  "Regular": "Standard",
+  "Improved": "Migliorata"
+},
+"OffHandPenalty": "Penalità Mano Secondaria",
+"ItemEquipStatus": {
+  "Label": "Posizione",
+  "Stored": "Conservato",
+  "Carried": "Trasportato",
+  "Equipped": "Equipaggiato",
+  "Installed": "Installato",
+  "OffHand": "Mano Secondaria",
+  "MainHand": "Mano Principale",
+  "TwoHands": "Due Mani",
+  "Added": "Aggiunto",
+  "Readied": "Pronto"
+},
+"DestroyOnEmpty": "Distruggi quando Vuoto",
+"Charges": "Cariche",
+"ChargesMax": "Cariche Massime",
+"Consumable": {
+  "Use": "Usa",
+  "Consumables": "Consumabili",
+  "NotEnoughCharges": "Cariche insufficienti!",
+  "ChargesUsed": "<p>{charges} carica/e usata/e su <em>{name}</em></p>"
+},
+    "EmptyAncestralAbilitiesHint": "<strong>Attenzione:</strong> Questa funzione è in fase di rimozione in favore delle assegnazioni tramite Oggetti. Se stai creando una nuova {ancestry} o {archetype}, trascina gli Oggetti nella scheda Proprietà. L'{ancestry} o l'{archetype} aggiungerà quegli Oggetti all'attore quando applicato.",
+"NoTokenSelectedForResistRoll": "Per effettuare un tiro di resistenza, seleziona prima un token",
+"Templates": {
+  "Cone": {
+    "Short": "Cono",
+    "Long": "Template a Cono"
+  },
+  "SmallCone": {
+    "Short": "Cono Piccolo",
+    "Long": "Template a Cono Piccolo"
+  },
+  "Stream": {
+    "Short": "Flusso",
+    "Long": "Template a Flusso"
+  },
+  "Small": {
+    "Short": "EPE",
+    "Long": "Esplosione Piccola"
+  },
+  "Medium": {
+    "Short": "EPM",
+    "Long": "Esplosione Media"
+  },
+  "Large": {
+    "Short": "EPL",
+    "Long": "Esplosione Grande"
+  },
+  "Available": "Template Disponibili",
+  "Possible": "Template Possibili"
+},
+"CompendiumTOC": {
+  "Toggle": "Attiva/Disattiva uso dell'Indice del Compendio",
+  "Dialog": {
+    "Title": "Conferma Modifica",
+    "Content": "Per applicare la modifica, Foundry VTT e tutti i client connessi verranno ricaricati. Conferma per procedere."
+  },
+  "Header": "Contenuti"
+},
+"Category": "Categoria",
+"ItemIsAmmo": "È Munizione",
+"Vision": {
+  "SeeHeat": "Vede il Calore",
+  "SenseHeat": "Percepisce il Calore",
+  "Infravision": "Infravisione"
+},
+"Attribute": "Attributo",
+"BaseDie": "Dado Base",
+"AttributeManager": {
+  "Title": "Gestisci Attributi per {name}",
+  "Open": "Gestisci Attributi"
+},
+"HeavyArmor": "Armatura Pesante",
+"HeavyWeapon": "Arma Pesante",
+"UsesTOC": "Usa Indice del Compendio",
+"TOCBlockList": "Lista di Blocco dell'Indice Compendio",
+"TOCSettings": {
+  "Label": "Apri Impostazioni Indice Compendio",
+  "Name": "Impostazioni Indice Compendio",
+  "Hint": "Configura l'applicazione dell'Indice del Compendio"
+},
+"DieSides": "Facce del Dado",
+"WildDieSides": "Facce del Dado del Destino",
+"EncumbranceSteps": "Livelli di Ingombro",
+"EffectWizard": {
+  "Preview": "Anteprima",
+  "Change": "Modifica",
+  "Mode": "Modalità",
+  "Value": "Valore",
+  "Changes": "Modifiche",
+  "SelectAttribute": "Seleziona Attributo",
+  "EnterSkill": {
+    "Label": "Inserisci abilità",
+    "Hint": "Puoi inserire qualsiasi nome di abilità oppure selezionarne uno dalla lista dei suggerimenti"
+  }
+},
+    "OtherStats": "Altre Statistiche",
+"AdditionalStats": {
+  "SelectHint": "Inserisci un elenco di opzioni separato da punto e virgola",
+  "Key": "Chiave Statistica",
+  "Label": "Etichetta",
+  "Type": "Tipo",
+  "HasMaxValue": "Ha un Valore Massimo",
+  "Current": "{stat} Attuale",
+  "Value": "Valore",
+  "Max": "Massimo {stat}",
+  "MaxLabel": "Massimo",
+  "OptionLabel": "Opzione",
+  "KeyErr": "La chiave statistica aggiuntiva {invalid} non è valida ed è stata modificata in {key}"
+},
+"MessageOnUse": {
+  "Label": "Messaggio all'Uso",
+  "Hint": "Mostra un messaggio in chat quando questo oggetto viene usato"
+},
+"ItemGrants": {
+  "EmptyHint": "Questo oggetto attualmente non concede altri oggetti",
+  "Header": "Oggetti Concessi",
+  "When": "Concedi Oggetti Quando",
+  "Mutation": "Mutazione"
+},
+"IgnFatigue": "Ignora Affaticamento",
+"IgnFatigueWounds": "Ignora Ferite/Affaticamento",
+"FatigueWounds": "Ferite/Affaticamento",
+"BaseDamage": "Danno Base",
+"RefreshPP": "Ricarica Punti Potere",
+"Targets": "Bersagli",
+"Rolls": {
+  "RollResult": "Risultato del Tiro",
+  "SwadeRoll": "Tiro",
+  "DamageRoll": "Tiro di Danno",
+  "TraitRoll": "Tiro di Tratto",
+  "Critfail": {
+    "Critfail": "FALLIMENTO CRITICO",
+    "ConfirmDie": "Dado di Conferma",
+    "Unconfirmed": "Fallimento Critico Non Confermato",
+    "Possible": "POSSIBILE FALLIMENTO CRITICO",
+    "Confirmed": "Conferma Fallimento Critico",
+    "Confirm": "Conferma"
+  },
+  "Free": "Gratuito",
+  "Benny": "Benny",
+  "GMBenny": "Benny del GM"
+},
+"LoadedAmmo": "Munizioni Caricate",
+"DamageApplicator": {
+  "ApplyDamage": {
+    "Label": "Applica Danno",
+    "Hint": "[Clic] per applicare il danno al Token selezionato"
+  },
+  "SoakModifier": "Modificatore di Assorbimento",
+  "WoundsAboutToBeTaken": "<p><strong>{name}</strong> sta per subire <strong>{wounds}</strong>!</p>",
+  "SoakDialog": {
+    "SoakRoll": "Prova di Vigore per Assorbire",
+    "WoundedTitle": "Tirare per Assorbire Ferite per {name}?",
+    "UnwoundedTitle": "Regolare il Danno per Determinare lo Stato di {name}?",
+    "WoundedPrompt": "<p>{name} sta per subire {wounds}. Vuoi tentare di assorbire?</p>",
+    "ShakenPrompt": "<p>{name} sta per diventare Scosso.</p>",
+    "UnharmedPrompt": "<p>{name} potrebbe non aver subito danni.</p>",
+    "Benny": "Spendi un Benny per Assorbire",
+    "GMBenny": "Spendi un Benny del GM per Assorbire",
+    "Free": "Assorbi Gratuitamente",
+    "TakeWounds": "Subisci {wounds}",
+    "AdjustDamage": "Regola Danno",
+    "ApplyShaken": "Applica Stato Scosso",
+    "Accept": "Accetta",
+    "NoVehicleSoak": "L'assorbimento per i veicoli non è ancora supportato"
+  },
+  "RerollSoakDialog": {
+    "Title": "Ritira per Assorbire Ferite per {name}?",
+    "Prompt": "<p>{name} sta per subire {wounds}. Vuoi ritirare il tiro di assorbimento?</p>",
+    "PromptCritFail": "<p>{name} sta per subire {wounds}. Un fallimento critico impedisce il ritirare.</p>",
+    "Benny": "Spendi un Benny per Ritirare",
+    "GMBenny": "Spendi un Benny del GM per Ritirare",
+    "Free": "Ritira Gratuitamente",
+    "TakeWounds": "Subisci {wounds}"
+  },
+  "AdjustDamagePrompt": "<p>Regola il danno in base alle abilità ed effetti che {name} potrebbe avere.</p>",
+  "Result": {
+    "NoSignificantDamage": "<p><strong>{name}</strong> non subisce danni significativi.</p>",
+    "SoakedAll": "<p><strong>{name}</strong> ha assorbito tutte le Ferite e non è Scosso!</p>",
+    "IsShaken": "<p><strong>{name}</strong> è <strong>Scosso</strong>!</p>",
+    "IsShakenWithWounds": "<p><strong>{name}</strong> è <strong>Scosso</strong> con <strong>{wounds}</strong>!</p>",
+    "IsIncapacitated": "<p><strong>{name}</strong> è <strong>Incapacitato!</strong></p>"
+  },
+  "Incapacitation": {
+    "InjuryRoll": "Prova di Vigore per resistere all'infortunio da incapacità",
+    "Dies": "<p><strong>{name}</strong> muore a causa del danno!</p>",
+    "PermanentInjury": "<p><strong>{name}</strong> subisce un infortunio permanente ed è <strong>in Emorragia!</strong></p>",
+    "PermanentInjuryHND": "<p><strong>{name}</strong> subisce un infortunio permanente!</p>",
+    "TemporaryInjury": "<p><strong>{name}</strong> subisce un infortunio che scomparirà quando tutte le Ferite saranno guarite.</p>",
+    "ShortInjury": "<p><strong>{name}</strong> subisce un infortunio che scomparirà entro 24 ore o quando tutte le Ferite saranno guarite (il primo che si verifica).</p>",
+    "TakeFail": "Subisci un infortunio permanente",
+    "TakeSuccess": "Subisci un infortunio che scomparirà quando tutte le ferite saranno guarite",
+    "Title": "Ritira la gravità dell'infortunio per {name}?",
+    "Prompt": "<p>{name} sta per subire un infortunio. Vuoi ritirare la prova di Vigore?</p>"
+  },
+  "NoInjuryTable": "Nessuna Tabella Infortuni selezionata. Vedi Configurazione Impostazioni SWADE",
+  "NoTargetsSelected": "Seleziona un bersaglio a cui applicare il danno."
+},
+    "NumberOfDice": {
+  "Label": "Dadi",
+  "Hint": "Determina quanti dadi di Tratto vengono tirati per questa azione"
+},
+"ResourcesUsed": {
+  "Label": "Risorse Usate",
+  "Hint": "Quantità di una risorsa arbitraria utilizzata per questa azione"
+},
+"CouldNotFindMacro": "Impossibile trovare la Macro con UUID {uuid}",
+"CouldNotFindTarget": "Questa macro richiede la selezione di un bersaglio!",
+"Magazine": {
+  "NoneLoaded": "Nessun caricatore inserito",
+  "Select": "Seleziona un caricatore"
+},
+"DmgMod": "Modificatore di Danno",
+"Auras": {
+  "TabHeader": "Auramante",
+  "Enabled": "Attivata",
+  "Color": "Colore",
+  "Range": "Raggio dell'Aura",
+  "Alpha": "Trasparenza dell'Aura",
+  "WallConstraints": {
+    "Label": "Limitata dai Muri",
+    "Hint": "Questo interruttore determina se l'aura è limitata dai muri che bloccano la luce o se può attraversarli"
+  },
+  "UserAura1": "Aura 1",
+  "UserAura2": "Aura 2"
+},
+"Aura": {
+  "Visibility": {
+    "Label": "Visibile a",
+    "Hint": "Seleziona quali token (in base alla Disposizione) possono vedere questa aura. Puoi sempre vedere tutte le aure di un token per cui hai almeno il permesso di Osservatore"
+  }
+},
+    "TOURS": {
+      "ERROR": {
+  "ActorCreatePermission": "Questo Tour richiede il permesso per creare attori",
+  "SettingPermission": "Questo Tour richiede la modifica delle impostazioni del mondo",
+  "JournalCreatePermission": "Questo Tour richiede la creazione di una Voce nel Diario"
+},
+      "AMMUNITION": {
+        "Title": "Munizioni",
+"Description": "Questo tour ti mostrerà come usare il tracciamento automatico delle munizioni",
+"Actor": "Personaggio Dimostrativo del Tour Munizioni",
+"Items": {
+  "NONE": "Arco Lungo",
+  "SELF": "Coltello da Lancio",
+  "SINGLE": "Revolver",
+  "FULL": "Pistola ad Acqua",
+  "MAGAZINE": "Steyr AUG",
+  "BATTERY": "Pistola Laser",
+  "PP": "Pistola del Mago"
+},
+        "GameSettings": {
+  "Title": "Impostazioni di Gioco",
+  "Content": "Per prima cosa, il tracciamento delle munizioni deve essere abilitato nelle impostazioni di sistema del gioco."
+},
+"SwadeSettings": {
+  "Title": "Impostazioni SWADE",
+  "Content": "Le impostazioni delle munizioni si trovano nel configuratore delle impostazioni di <em>Savage Worlds</em>"
+},
+"AmmoSettings": {
+  "Title": "Impostazioni Munizioni",
+  "Content": "Queste controllano se le munizioni vengono consumate automaticamente dalle armi a distanza."
+},
+"AmmoManagement": {
+  "Title": "Gestione Munizioni",
+  "Content": "Questa impostazione controlla se sparare con un'arma a distanza consuma munizioni, sia dal contatore interno dell'arma che dall'inventario."
+},
+"PCInventory": {
+  "Title": "Munizioni dall'Inventario",
+  "Content": "Le tre impostazioni successive controllano se gli oggetti esterni vengono consumati durante la ricarica dell'arma, in base al tipo di attore. Se queste sono disattivate ma la gestione delle munizioni è attiva, gli attori di quel tipo consumeranno i colpi sull'oggetto ma potranno ricaricare liberamente. Questo consente una gestione arcade delle munizioni, dove l'azione di ricarica è importante da tracciare ma il consumo a lungo termine no."
+},
+"CharacterWeapons": {
+  "Title": "Armi del Personaggio",
+  "Content": "Le armi di un personaggio sono elencate nella scheda Equipaggiamento."
+},
+"ReloadNone": {
+  "Title": "Procedura di Ricarica — Nessuna",
+  "Content": "Queste armi ignorano completamente il contatore dei colpi, prelevando direttamente dall'oggetto munizione collegato. Questa impostazione è ideale per armi che usano solo munizioni esterne, come una faretra di frecce o una mitragliatrice a tamburo."
+},
+"AmmoNone": {
+  "Title": "Campo Munizioni",
+  "Content": "Questo campo deve essere impostato su un oggetto Equipaggiamento (es. Frecce) o Consumabile (es. Barile di Proiettili) nell'inventario del personaggio. La quantità dell'oggetto Equipaggiamento viene consumata direttamente. Gli oggetti Consumabili usano le loro cariche, con ogni quantità che rappresenta un set completo di cariche. Il nome deve corrispondere <em>esattamente</em> all'oggetto da consumare."
+},
+"ReloadSelf": {
+  "Title": "Procedura di Ricarica — Se Stesso",
+  "Content": "Queste armi usano la propria quantità per reimpostare il contatore dei colpi. Questa impostazione è ideale per armi da lancio o qualsiasi oggetto che si consuma da solo."
+},
+"AmmoSelf": {
+  "Title": "Campo Munizioni",
+  "Content": "Questo campo viene ignorato quando il tipo di ricarica è impostato su 'Se Stesso'"
+},
+"ReloadSingle": {
+  "Title": "Procedura di Ricarica — Singola",
+  "Content": "Queste armi ricaricano un singolo colpo ogni volta che si preme il pulsante di ricarica. Questa impostazione è ideale per revolver o armi con munizioni ingombranti e lente da ricaricare."
+},
+"AmmoSingle": {
+  "Title": "Campo Munizioni",
+  "Content": "Questo campo funziona in modo simile a 'Ricarica — Nessuna', ma la quantità o le cariche vengono consumate durante la ricarica invece che durante lo sparo, poiché lo sparo consuma dal contatore dei colpi."
+},
+"ReloadFull": {
+  "Title": "Procedura di Ricarica — Completa",
+  "Content": "Queste armi ricaricano l'intero contatore dei colpi ogni volta che si preme il pulsante di ricarica. Può essere usato come versione semplificata del metodo a caricatore o per armi senza caricatori rimovibili, come una pistola con serbatoi liquidi."
+},
+"AmmoFull": {
+  "Title": "Campo Munizioni",
+  "Content": "Questo campo funziona in modo simile a 'Ricarica — Nessuna', ma la quantità o le cariche vengono consumate durante la ricarica invece che durante lo sparo, poiché lo sparo consuma dal contatore dei colpi."
+},
+"ReloadMagazine": {
+  "Title": "Procedura di Ricarica — Caricatore",
+  "Content": "Queste armi usano caricatori completamente rimovibili che possono essere scambiati secondo necessità, tracciando il numero di colpi rimasti per caricatore."
+},
+"AmmoMagazine": {
+  "Title": "Campo Munizioni",
+  "Content": "L'oggetto indicato DEVE essere un consumabile con sottotipo 'Caricatore' per funzionare correttamente. Inoltre, le cariche del consumabile devono corrispondere al contatore dei colpi dell'arma."
+},
+"ReloadBattery": {
+  "Title": "Procedura di Ricarica — Batteria",
+  "Content": "Queste armi funzionano in modo simile ai caricatori, ma con batterie intercambiabili che si esauriscono in proporzione ai colpi sparati."
+},
+"AmmoBattery": {
+  "Title": "Campo Munizioni",
+  "Content": "L'oggetto indicato DEVE essere un consumabile con sottotipo 'Batteria' per funzionare correttamente. Inoltre, le cariche massime del consumabile devono essere su base 100."
+},
+"ReloadPP": {
+  "Title": "Procedura di Ricarica — Punti Potere",
+  "Content": "Queste armi non si ricaricano con munizioni fisiche ma consumando i punti potere del portatore, come previsto in <em>Rifts® per Savage Worlds</em>"
+},
+"AmmoPP": {
+  "Title": "Campo Munizioni",
+  "Content": "Invece di indicare un oggetto, inserisci un tipo arcano valido sul personaggio, come generale, magia, miracoli o psionica"
+}
+},
+      "TWEAKS": {
+  "Title": "Regolazioni",
+  "Description": "Scopri le modifiche uniche alla scheda nel menu Regolazioni",
+  "Actor": "Personaggio Dimostrativo del Tour Regolazioni",
+  "AccessTweaks": {
+    "Title": "Accesso alle Regolazioni",
+    "Content": "Il menu Regolazioni si trova nell'intestazione di ogni scheda personaggio e offre opzioni di configurazione aggiuntive"
+  },
+  "TraitTweaks": {
+    "Title": "Regolazioni dei Tratti",
+    "Content": "Questa scheda offre un'ampia gamma di campi aggiuntivi per personalizzare i tratti del personaggio"
+  },
+  "Advances": {
+    "Title": "Modalità Avanzamenti",
+    "Content": "Gli avanzamenti espansi (predefiniti) offrono una gestione avanzata dei dati che specifica il tipo di avanzamento e calcola automaticamente il rango del personaggio. Gli avanzamenti classici sono semplicemente una grande casella di testo dove scrivere liberamente, senza gestione dei dati."
+  },
+  "Unshake": {
+    "Title": "Modificatore per Rimuovere Scosso",
+    "Content": "Aggiunge un bonus al tiro automatico per rimuovere lo stato Scosso, effettuato all'inizio del turno di un personaggio scosso."
+  },
+  "Soak": {
+    "Title": "Modificatore di Assorbimento",
+    "Content": "Aggiunge un bonus al tiro di assorbimento attivato dal pulsante Subisci Danno sulle carte di danno del sistema."
+  },
+  "Initiative": {
+    "Title": "Modificatori di Iniziativa",
+    "Content": "Modifica la gestione dell'iniziativa del personaggio in base alle regole del manuale base."
+  },
+  "AutoCalc": {
+    "Title": "Calcoli Automatici",
+    "Content": "Attiva o disattiva il calcolo automatico delle statistiche del personaggio in base agli attributi e all'equipaggiamento, oppure consente l'impostazione manuale."
+  }
+},
+      "ADDSTATS": {
+  "Title": "Statistiche Aggiuntive",
+  "Description": "Scopri come configurare le Statistiche Aggiuntive per la tua ambientazione",
+  "Actor": "Personaggio Dimostrativo del Tour Statistiche Aggiuntive",
+  "GameSettings": {
+    "Title": "Impostazioni di Gioco",
+    "Content": "Per prima cosa, le Statistiche Aggiuntive devono essere configurate nelle Impostazioni di Gioco."
+  },
+  "SwadeSettings": {
+    "Title": "Impostazioni SWADE",
+    "Content": "Le Statistiche Aggiuntive si trovano nel configuratore delle impostazioni di <em>Savage Worlds</em>."
+  },
+  "StatSettings": {
+    "Title": "Configurazione Statistiche Aggiuntive",
+    "Content": "Tutte le statistiche devono essere create prima in questa pagina, per poter essere abilitate successivamente su attori e oggetti."
+  },
+  "StatKey": {
+    "Title": "Chiave Statistica",
+    "Content": "Le chiavi statistiche determinano come viene referenziata la statistica aggiuntiva nei dati (actor.system.additionalStats.stat-key) e devono essere uniche."
+  },
+  "StatLabel": {
+    "Title": "Etichetta",
+    "Content": "Il testo che verrà mostrato nella scheda del personaggio."
+  },
+  "StatDType": {
+    "Title": "Tipo",
+    "Content": "Ogni tipo ha una gestione specifica."
+  },
+  "HasMax": {
+    "Title": "Ha un Valore Massimo",
+    "Content": "Aggiunge un campo per indicare il valore massimo di una statistica aggiuntiva, oltre al valore attuale (Disponibile solo per Numeri e Testo)."
+  },
+  "ActorDisplay": {
+    "Title": "Statistiche Aggiuntive sugli Attori",
+    "Content": "Le statistiche aggiuntive abilitate su un attore vengono visualizzate nella scheda Riepilogo."
+  },
+  "Checkbox": {
+    "Title": "Statistiche Aggiuntive con Checkbox",
+    "Content": "Il valore di una checkbox è vero o falso."
+  },
+  "Number": {
+    "Title": "Statistiche Aggiuntive Numeriche",
+    "Content": "Qualsiasi numero è accettabile, inclusi i decimali."
+  },
+  "Die": {
+    "Title": "Statistiche Aggiuntive con Dado",
+    "Content": "Il primo campo accetta qualsiasi espressione valida di dado di Foundry; aggiungi una x per farlo esplodere (es. 1d6x). Il secondo è un numero che viene aggiunto. Clicca sull'etichetta per tirare il dado."
+  },
+  "Text": {
+    "Title": "Statistiche Aggiuntive Testuali",
+    "Content": "Campo stringa semplice; la larghezza non è molto ampia, quindi testi lunghi dovrebbero andare nella descrizione o in altri campi."
+  },
+  "Selection": {
+    "Title": "Statistiche Aggiuntive a Selezione",
+    "Content": "Un elenco fisso di opzioni basato sulle impostazioni di gioco."
+  },
+  "AccessTweaks": {
+    "Title": "Abilitare e Disabilitare le Statistiche Aggiuntive",
+    "Content": "Le Statistiche Aggiuntive possono essere abilitate o disabilitate dalla scheda Statistiche Aggiuntive nel menu Regolazioni."
+  },
+  "AddStatTweaks": {
+    "Title": "Scheda Statistiche Aggiuntive",
+    "Content": "Ogni Statistica Aggiuntiva è disattivata per impostazione predefinita e deve essere abilitata individualmente su ogni attore o oggetto."
+  }
+},
+      "AURAS": {
+  "Title": "Aure",
+  "Description": "Introdotte nella versione 3.2, le Aure creano effetti visivi persistenti che seguono i token.",
+  "Actor": "Personaggio Dimostrativo del Tour Aure",
+  "AccessAuras": {
+    "Title": "Accesso alle Aure",
+    "Content": "Le Aure si trovano nel menu Regolazioni"
+  },
+  "Auramancer": {
+    "Title": "Scheda Aure",
+    "Content": "Le Aure hanno una propria scheda all'interno del menu Regolazioni. I personaggi possono avere al massimo due aure."
+  },
+  "Enable": {
+    "Title": "Attivazione delle Aure",
+    "Content": "Ogni aura può essere attivata individualmente; funzionano anche con token non collegati, permettendo di impostare aure singolarmente anche se condividono lo stesso attore sorgente."
+  },
+  "Constrained": {
+    "Title": "Vincoli dei Muri",
+    "Content": "Questo interruttore determina se l'aura è limitata dai muri che bloccano la luce oppure se può attraversarli."
+  },
+  "Radius": {
+    "Title": "Raggio dell'Aura",
+    "Content": "Il raggio dell'aura, misurato in unità della griglia. L'unità mostrata qui corrisponde a quella della scena corrente."
+  },
+  "Color": {
+    "Title": "Colore e Trasparenza dell'Aura",
+    "Content": "Le aure si mostrano come template circolari attorno al personaggio sorgente; queste impostazioni permettono di controllarne l'aspetto visivo."
+  },
+  "Visibility": {
+    "Title": "Visibilità dell'Aura",
+    "Content": "Seleziona quali token (in base alla Disposizione) possono vedere questa aura. Puoi sempre vedere tutte le aure di un token per cui hai almeno il permesso di Osservatore."
+  }
+},
+      "ADVANCES": {
+  "Title": "Avanzamenti",
+  "Description": "Scopri come SWADE tiene traccia degli avanzamenti del personaggio",
+  "Actor": "Personaggio Dimostrativo del Tour Avanzamenti",
+  "AccessAdvanceMode": {
+    "Title": "Impostare la Modalità Avanzamenti",
+    "Content": "La modalità avanzamenti di un personaggio può essere modificata dal menu Regolazioni."
+  },
+  "Mode": {
+    "Title": "Selezione Modalità Avanzamenti"
+  },
+  "AdvanceTab": {
+    "Title": "Scheda Avanzamenti",
+    "Content": "Gli avanzamenti vengono configurati nella scheda principale \"Informazioni\"."
+  },
+  "Create": {
+    "Title": "Creazione di un Avanzamento",
+    "Content": "Questo pulsante crea un nuovo avanzamento da utilizzare"
+  },
+  "Editor": {
+    "Title": "Editor Avanzamenti",
+    "Content": "Questo modulo fornisce le informazioni di configurazione per un nuovo avanzamento."
+  },
+  "Type": {
+    "Title": "Selezione Tipo di Avanzamento",
+    "Content": "Scegli che tipo di avanzamento è. Attualmente questa selezione non attiva ulteriori controlli o opzioni, ma futuri aggiornamenti del sistema potrebbero modificarla."
+  },
+  "Rank": {
+    "Title": "Rango dell'Avanzamento",
+    "Content": "Il rango che il tuo personaggio raggiungerà con questo avanzamento. Non può essere modificato direttamente, poiché è calcolato in base al numero totale di avanzamenti del personaggio."
+  },
+  "Number": {
+    "Title": "Numero Avanzamento",
+    "Content": "Controlla l'ordine degli avanzamenti. Modificarlo sposterà l'avanzamento in una posizione precedente nell'elenco."
+  },
+  "Planned": {
+    "Title": "Avanzamenti Pianificati",
+    "Content": "Puoi contrassegnare gli avanzamenti come pianificati per evitare che vengano conteggiati nel rango del personaggio."
+  },
+  "Notes": {
+    "Title": "Note sull'Avanzamento",
+    "Content": "Inserisci qui tutte le informazioni rilevanti sull'avanzamento: quali tratti hai aumentato, quali vantaggi hai scelto, ecc."
+  },
+  "SaveChanges": {
+    "Title": "Pulsante Salva Modifiche",
+    "Content": "Le modifiche NON vengono salvate automaticamente nel personaggio. Devi usare il pulsante di salvataggio nell'Editor ProseMirror o questo pulsante \"Salva Modifiche\""
+  }
+},
+      "HEADQUARTERS": {
+  "Title": "Quartier Generale",
+  "Description": "Scopri il nuovo tipo di Pagina del Diario: Quartier Generale! Utile per le roccaforti del <em>Fantasy Companion</em>, i rifugi del <em>Horror Companion</em> e le basi del <em>Super Powers Companion</em>.",
+  "JournalEntry": "Diario del Tour Quartier Generale",
+  "HeadquartersPage": "Pagina del Tour Quartier Generale",
+  "CreateJournal": {
+    "Title": "Crea un Diario",
+    "Content": "I Quartieri Generali devono essere creati all'interno di un diario principale."
+  },
+  "CreatePage": {
+    "Title": "Crea una Pagina Quartier Generale",
+    "Content": "I Quartieri Generali sono un nuovo tipo di pagina del diario, proprio come testo, immagine e PDF."
+  },
+  "HQPage": {
+    "Title": "La Pagina Quartier Generale",
+    "Content": "I Quartieri Generali sono simili alle pagine di testo, ma offrono un input più strutturato. Le sezioni sono modellate sui quattro passaggi forniti in ciascuno dei companion."
+  },
+  "Advantage": {
+    "Title": "Vantaggio",
+    "Content": "I vantaggi specifici dipendono dal genere in cui stai giocando; puoi trascinare i risultati dei tiri in questa sezione."
+  },
+  "Complication": {
+    "Title": "Complicazione",
+    "Content": "Come per i vantaggi, puoi trascinare i risultati dei tiri anche in questa sezione."
+  },
+  "Form": {
+    "Title": "Forma",
+    "Content": "La sezione forma è suddivisa in tre parti per darti spazio per descrivere ogni aspetto del tuo quartier generale."
+  },
+  "Upgrades": {
+    "Title": "Miglioramenti",
+    "Content": "Puoi elencare qui i tuoi miglioramenti. Questo campo supporta pienamente l'input HTML, quindi sentiti libero di usare elenchi puntati, tabelle o qualsiasi altro sistema organizzativo che preferisci."
+  }
+}
+},
+    "SWID": {
+  "Long": "ID Savage Worlds",
+  "Short": "SWID",
+  "Regenerate": "Rigenera ID Savage Worlds",
+  "ChangeWarning2": "Modificare l'ID Savage Worlds di un Oggetto potrebbe interrompere i riferimenti a quell'Oggetto! Procedi con cautela e solo se sei sicuro.",
+  "ChangeWarning3": "Vuoi procedere?",
+  "ChangeWarning1": "Procedi con cautela!"
+},
+"HindranceSeverity": {
+  "Label": "Opzioni di Gravità",
+  "Major": "Solo Maggiore",
+  "Minor": "Solo Minore",
+  "Either": "Entrambe"
+},
+"Weapon": {
+  "RangeType": {
+    "Label": "Tipo di Portata",
+    "Melee": "Mischia",
+    "Ranged": "A Distanza",
+    "Mixed": "Misto"
+  }
+},
+"NpcWildCardsOnScene": "PNG Wild Cards nella Scena",
+"PlayerCardDrawHelper": {
+  "Title": "Assistente Pesca Carte Giocatore SWADE"
+},
+"CardDrawMsgSize": {
+  "None": "Nessuna",
+  "Compact": "Compatta",
+  "Large": "Grande"
+},
+"SelectNewGroupLeader": "Seleziona un nuovo Capo Gruppo",
+"ToggleIncap": "Attiva/Disattiva Incapacitazione",
+"AmbushAssistant": {
+  "OnHold": "In Attesa",
+  "NormalDraw": "Pesca Normale",
+  "NoTurn": "Nessun Turno",
+  "Title": "Assistente Agguato",
+  "Hint": "Trascina i Combattenti per impostare il turno di sorpresa",
+  "Unassigned": "Non Assegnato"
+},
+    "Combat": {
+  "LinkScene": "Collega Scena",
+  "DealAll": "Distribuisci a Tutti",
+  "DealNPC": "Distribuisci agli PNG",
+  "StartSurpriseRound": "Inizia il Turno di Sorpresa",
+  "StartEncounter": "Inizia lo Scontro",
+  "AdvanceRoundTitle": "Passare al turno successivo?",
+  "AdvanceRoundContent": "Vuoi passare al turno successivo?",
+  "RevertRoundTitle": "Tornare al turno precedente?",
+  "RevertRoundContent": "Vuoi tornare al turno precedente?",
+  "DiscardedCards": "Carte Scartate",
+  "Redraw": "Pesca Nuova Carta",
+  "RedrawFor": "Pesca Nuova Carta ({name})",
+  "RedrawDialog": {
+    "Content": "Pescare una nuova carta con un Benny o gratuitamente?",
+    "ContentNoBenny": "Nessun Benny rimasto. Pescare una nuova carta gratuitamente?"
+  }
+},
+"FollowerCount": "{count} Seguaci",
+"Benny": "Benny",
+"Free": "Gratuito",
+"DeleteFromParentWarningPermanent": "{name} sarà eliminato definitivamente da {parent} e non potrà essere recuperato.",
+"DeleteFromParentWarning": "{name} sarà eliminato definitivamente da {parent}.",
+"SettingConfigurator": {
+  "WorldTables": "Tabelle del Mondo",
+  "WorldCompendiums": "Compendi del Mondo"
+},
+"Group": {
+  "Sheet": {
+    "Members": {
+      "Header": "Membri",
+      "Hint": "Per aggiungere membri, trascinali sulla scheda oppure incolla il loro UUID. Funziona anche con attori token in una scena.",
+      "Empty": "Nessun membro presente"
+    },
+    "Stash": {
+      "Header": "Scorta",
+      "Empty": "Nessun oggetto presente"
+    },
+    "Lock": {
+      "Label": "Blocca/Libera Scheda",
+      "Hint": "Quando bloccata, non è possibile aggiungere o rimuovere attori dal gruppo"
+    }
+  }
+},
+    "Supplies": {
+  "Label": "Scorte",
+  "Level": {
+    "Out": "Esaurite",
+    "Low": "Basse",
+    "High": "Alte",
+    "VeryHigh": "Molto Alte"
+  },
+  "Ammo": {
+    "Label": "Munizioni"
+  },
+  "Fuel": {
+    "Label": "Carburante"
+  },
+  "Food": {
+    "Label": "Cibo"
+  },
+  "Supply": {
+    "Label": "Scorta"
+  }
+},
+"Movement": {
+  "Base": "Movimento Base",
+  "Other": "Altre Velocità di Movimento",
+  "Pace": {
+    "Base": {
+      "Label": "Velocità Base",
+      "Hint": "Quale Velocità è quella predefinita per l'attore"
+    },
+    "Ground": {
+      "Label": "Terrestre"
+    },
+    "Fly": {
+      "Label": "Volare"
+    },
+    "Swim": {
+      "Label": "Nuotare"
+    },
+    "Burrow": {
+      "Label": "Scavare"
+    }
+  },
+  "Running": {
+    "OutOfCombat": "Puoi correre a Velocità {pace} per {minutes} minuti fuori dal combattimento",
+    "Dialog": {
+      "Title": "Corsa",
+      "Content": "Seleziona come vuoi correre"
+    }
+  }
+},
+"ApplicableEffects": "Effetti Applicabili",
+"DramaticTask": {
+  "Successes": "Successi",
+  "MaxRounds": {
+    "Label": "Turni Massimi",
+    "Hint": "Quanti turni dura il Compito Drammatico?"
+  },
+  "MaxTokens": {
+    "Label": "Successi",
+    "Hint": "Numero di successi che i partecipanti devono raggiungere"
+  }
+},
+"Vehicle": {
+  "Cargo": {
+    "Capacity": "Capacità di Carico"
+  },
+  "Crew": {
+    "Add": "Aggiungi Membro dell'Equipaggio",
+    "Remove": "Rimuovi Membro dell'Equipaggio",
+    "Role": "Ruolo",
+    "Roles": {
+      "Operator": "Operatore",
+      "Gunner": "Artigliere",
+      "Other": "Altro"
+    }
+  }
+},
+    "ChargeLevel": "Carica"
+},
+"TYPES": {
+  "ActiveEffect": {
+    "modifier": "Modificatore"
+  },
+  "Actor": {
+    "character": "Personaggio Giocante",
+    "npc": "PNG",
+    "vehicle": "Veicolo",
+    "group": "Gruppo"
+  },
+  "Item": {
+    "weapon": "Arma",
+    "ancestry": "Origine",
+    "armor": "Armatura",
+    "shield": "Scudo",
+    "gear": "Equipaggiamento",
+    "edge": "Vantaggio",
+    "hindrance": "Svantaggio",
+    "skill": "Abilità",
+    "power": "Potere",
+    "ability": "Capacità",
+    "consumable": "Consumabile",
+    "action": "Azione"
+  },
+  "Card": {
+    "adventure": "Carta Avventura",
+    "poker": "Carta da Poker"
+  },
+  "Combat": {
+    "chase": "Inseguimento",
+    "dramaticTask": "Compito Drammatico"
+  },
+  "JournalEntryPage": {
+    "headquarters": "Quartier Generale"
+  }
+}
+}
